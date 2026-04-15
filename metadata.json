@@ -1,0 +1,6 @@
+{
+  "name": "IntelliHook",
+  "description": "An intelligent document processing interface that analyzes uploads with Gemini and forwards data to custom webhooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
