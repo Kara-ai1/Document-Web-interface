@@ -1,6 +1,6 @@
 {
-  "name": "IntelliHook",
-  "description": "An intelligent document processing interface that analyzes uploads with Gemini and forwards data to custom webhooks.",
+  "name": "NexusBridge",
+  "description": "An immersive, intelligent document routing interface powered by Gemini AI. Analyze any document type and bridge structured data to your cloud webhooks.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
